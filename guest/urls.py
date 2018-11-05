@@ -25,4 +25,3 @@ urlpatterns = [
     url(r'^login_action/$', views.login_action),
     url(r'^event_manage/$', views.event_manage),
 ]
-#
